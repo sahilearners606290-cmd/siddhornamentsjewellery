@@ -5,7 +5,7 @@
 const CLIENT_CONFIG = {
     // Supabase Credentials (Har client ka apna alag Supabase project hoga)
     SUPABASE_URL: "https://jmnikkwvemnflenesnmf.supabase.co",
-    SUPABASE_PUBLISHABLE_KEY: "sb_publishable_cOS9LZAOn-Dmot7-PTqqJA_EAc11jWY",
+    SUPABASE_PUBLISHABLE_KEY: "sb_publishable_0kiSK8_tBLCFC-D96p4SWw_szBG36C4",
 
     // Shop Details & Branding
     shopName: "Siddhornamentsjewellery",
