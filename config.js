@@ -16,5 +16,5 @@ const CLIENT_CONFIG = {
     shopAddress: "Lucknow, Uttar Pradesh",
     
     // Logo (Supabase Storage bucket link ya local path)
-    logoPath: "images/logo.png"
+    logoPath: "images/logo2.png"
 };
