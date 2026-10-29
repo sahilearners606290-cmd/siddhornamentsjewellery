@@ -73,11 +73,11 @@ body {
             rgba(35, 23, 15, 0.55),
             rgba(35, 23, 15, 0.55)
         ),
-        url("https://jmnikkwvemnflenesnmf.supabase.co/storage/v1/object/public/product-images/banner.jpg");
+        url("./banner.jpg");
 
     background-size: cover;
     background-position: center;
-}
+            }
 
 
 
