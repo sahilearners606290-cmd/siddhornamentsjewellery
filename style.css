@@ -227,7 +227,7 @@ body {
 .product-image img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: contain !important; /* Isse image bilkul nahi kategi, poori dikhegi */
+    object-fit: cover !important; /* Isse image bilkul nahi kategi, poori dikhegi */
     display: block;
 }
 
