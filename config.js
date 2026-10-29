@@ -8,10 +8,10 @@ const CLIENT_CONFIG = {
     SUPABASE_PUBLISHABLE_KEY: "sb_publishable_cOS9LZAOn-Dmot7-PTqqJA_EAc11jWY",
 
     // Shop Details & Branding
-    shopName: "Royal Jewellers",
+    shopName: "Siddhornamentsjewellery",
     tagline: "Elegant Jewellery for Every Occasion",
-    whatsappNumber: "9555484389", // Client ka WhatsApp number (without +)
-    phoneNumber: "+91 9555484389",
+    whatsappNumber: "9826033374", // Client ka WhatsApp number (without +)
+    phoneNumber: "+91 98260 33374",
     instagramUrl: "https://www.instagram.com/smartstore.build?obrf=MXFwbjZybjk2ZDB0OQ==",
     shopAddress: "Lucknow, Uttar Pradesh",
     
