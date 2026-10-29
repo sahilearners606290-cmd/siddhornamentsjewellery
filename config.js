@@ -12,7 +12,7 @@ const CLIENT_CONFIG = {
     tagline: "Elegant Jewellery for Every Occasion",
     whatsappNumber: "9826033374", // Client ka WhatsApp number (without +)
     phoneNumber: "+91 98260 33374",
-    instagramUrl: "https://www.instagram.com/smartstore.build?obrf=MXFwbjZybjk2ZDB0OQ==",
+    instagramUrl: "https://www.instagram.com/siddhornamentsjewellery?rpxt=MWsxZW42cmJ4bXg1",
     shopAddress: "Lucknow, Uttar Pradesh",
     
     // Logo (Supabase Storage bucket link ya local path)
